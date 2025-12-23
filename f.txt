@@ -1,0 +1,5 @@
+ username |                            email                             |        password         
+----------+--------------------------------------------------------------+-------------------------
+ aanbadi  | $2a$10$SAodi4u7YviTQ2dzdDQVUuh7vtBYpwe5TG7Dq/piwwleQ0IKOLszK | anassanbadi69@gmail.com
+(1 row)
+
